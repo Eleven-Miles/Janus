@@ -1,0 +1,20 @@
+{
+    "name": "eleven-miles-dev/janus",
+    "description": "A WP-CLI plugin to add various commands to automate the process of updating the core of wordpress alongside plugins",
+    "type": "library",
+    "require": {
+        "wp-cli/wp-cli": "^2.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "ElevenMiles\\WpAutomatedUpdates\\": "src/WpAutomatedUpdates"
+        }
+    },
+    "authors": [
+        {
+            "name": "Callum Bridgford-Whittick",
+            "email": "callum.bridgford-whittick@elevenmiles.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
