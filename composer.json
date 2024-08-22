@@ -1,5 +1,5 @@
 {
-    "name": "eleven-miles-dev/janus",
+    "name": "eleven-miles/janus",
     "description": "A WP-CLI plugin to add various commands to automate the process of updating the core of wordpress alongside plugins",
     "type": "library",
     "require": {
